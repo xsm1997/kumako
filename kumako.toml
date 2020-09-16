@@ -1,0 +1,6 @@
+sub-conn-count = 8
+debug-level = 2
+
+[client]
+listen-address = "127.0.0.1:5000"
+server-address = "192.168.1.123:5000"
